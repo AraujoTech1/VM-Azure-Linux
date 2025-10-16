@@ -1,0 +1,2 @@
+.venv/\nlab_files/\n*.pyc\n__pycache__/
+lab_files/
