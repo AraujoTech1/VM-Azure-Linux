@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,linux" width="420" />
+    <img src="https://skillicons.dev/icons?i=azure,linux" width="400" />
   </a>
 </p>
 
 ---
-### VM Ubuntu na Microsoft Azure — Ambiente de Laboratório (Ubuntu 24.04 LTS)
---
+## VM Ubuntu na Microsoft Azure — Ambiente de Laboratório (Ubuntu 24.04 LTS)
+---
 ## Visão Geral
 
 Projeto demonstrativo para criação, configuração e utilização de uma Máquina Virtual (VM) Ubuntu 24.04 LTS na Microsoft Azure, com foco em práticas educativas de administração de sistemas Linux e experimentos controlados com scripts Python para fins de estudo em cibersegurança. O objetivo é fornecer um ambiente reproduzível, seguro e documentado para testes e demonstrações.
